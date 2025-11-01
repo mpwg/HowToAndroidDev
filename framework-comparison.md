@@ -576,10 +576,10 @@ Extension of Android's Jetpack Compose UI framework to support iOS, desktop, and
 - Seamless with KMP
 
 **Cons:**
-- Still in development (iOS support is alpha/beta)
+- Platform support maturity varies (check current status for target platforms)
 - Smaller ecosystem than Flutter
 - Requires Kotlin knowledge
-- Limited production use cases so far
+- Fewer production use cases than mature alternatives
 - Evolving rapidly
 
 **Use Cases:**
